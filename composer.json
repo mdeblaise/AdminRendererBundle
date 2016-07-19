@@ -1,0 +1,10 @@
+{
+    "name": "matelo/srv",
+    "authors": [
+        {
+            "name": "Matelo",
+            "email": "m.deblaise@meuhmeuhconcept.com"
+        }
+    ],
+    "require": {}
+}
